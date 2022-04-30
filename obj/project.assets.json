@@ -9653,19 +9653,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luigi\\.nuget\\packages\\": {}
+    "C:\\Users\\puell\\.nuget\\packages\\": {},
+    "E:\\visual studio\\componentes\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luigi\\Downloads\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\MvcMovieParcial2Electiva.csproj",
+      "projectUniqueName": "E:\\Copia de Seguridad (Mis Documentos)\\Escritorio\\visual\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\MvcMovieParcial2Electiva.csproj",
       "projectName": "MvcMovieParcial2Electiva",
-      "projectPath": "C:\\Users\\luigi\\Downloads\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\MvcMovieParcial2Electiva.csproj",
-      "packagesPath": "C:\\Users\\luigi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luigi\\Downloads\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\obj\\",
+      "projectPath": "E:\\Copia de Seguridad (Mis Documentos)\\Escritorio\\visual\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\MvcMovieParcial2Electiva.csproj",
+      "packagesPath": "C:\\Users\\puell\\.nuget\\packages\\",
+      "outputPath": "E:\\Copia de Seguridad (Mis Documentos)\\Escritorio\\visual\\MvcMovieParcial2Electiva-main\\MvcMovieParcial2Electiva\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\visual studio\\componentes\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\luigi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\puell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
