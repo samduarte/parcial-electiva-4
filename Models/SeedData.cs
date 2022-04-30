@@ -16,7 +16,7 @@ namespace MvcMovieParcial2Electiva.Models
             {
                 // Look for any movies.
                 if (context.Movie.Any())
-                {
+                {    
                     return;   // DB has been seeded
                 }
 
